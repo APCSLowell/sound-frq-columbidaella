@@ -50,3 +50,4 @@ public class Sound
   }
     samples = ans;
 }
+}
